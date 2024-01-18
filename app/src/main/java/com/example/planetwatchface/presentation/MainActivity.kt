@@ -76,6 +76,7 @@ class MainActivity : ComponentActivity() {
 
         LaunchedEffect(Unit) {
             focusRequester.requestFocus()
+            focusRequester.requestFocus()
         }
 
         Canvas(modifier = Modifier
