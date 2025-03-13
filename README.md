@@ -35,7 +35,7 @@ Experience the wonder of space every time you check your watch! Planet Watch Fac
 ### 📥 Installation
 1️⃣ Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/planet-watch-face.git
+   git clone https://github.com/jenxwa/Planet-Watch-Face.git
    ```
 2️⃣ Open the project in **Android Studio**.
 3️⃣ Select a **Wear OS Emulator** or **Wear OS Device** as the target.
