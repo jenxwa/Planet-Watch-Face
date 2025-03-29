@@ -3,6 +3,7 @@
 ### 🪐 Explore the Cosmos on Your Wrist!
 Experience the wonder of space every time you check your watch! Planet Watch Face is an interactive, solar-system-inspired watch face built with **Jetpack Compose** for **Wear OS**. The planets orbit dynamically around the sun, and their positions are updated based on real-time astronomical data. Rotate your smartwatch's crown to interact with the cosmos in an immersive way!
 
+![Round Wear OS Emulator Screenshot](app/src/main/res/demo.png)
 ---
 
 ## 🚀 Features
